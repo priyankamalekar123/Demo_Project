@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205041651914",
+    "project_id": "kotlin-project-5db43",
+    "storage_bucket": "kotlin-project-5db43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205041651914:android:de3dc74b12e3623eaca433",
+        "android_client_info": {
+          "package_name": "com.cdpindia.demo_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205041651914-eomtkmp8r0s1d050ba7miq6hc14vleu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyW3CqHRY2ThY_qcrQkJ8lkMRcoKf6LMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205041651914-eomtkmp8r0s1d050ba7miq6hc14vleu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
